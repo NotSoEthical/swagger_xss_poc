@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/NotSoEthical/swagger_xss_poc/main/PoC.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/NotSoEthical/swagger_xss_poc/main/PoC.yaml",
+            "name": "Foo"
+        }
+    ]
+}
